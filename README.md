@@ -1,5 +1,5 @@
 # CycleGAN-TensorFlow
-An implementation of CycleGan using TensorFlow (work in progress).
+An implementation of CycleGan using TensorFlow.
 
 Original paper: https://arxiv.org/abs/1703.10593
 
